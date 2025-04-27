@@ -46,3 +46,4 @@ Swal.fire({
       icon: 'info',
       confirmButtonText: 'Got it!'
     });
+
